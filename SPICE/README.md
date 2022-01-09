@@ -1,7 +1,7 @@
 # Image Clustering: SPICE: Semantic Pseudo-labeling for Image Clustering
 By [Chuang Niu](https://scholar.google.com/citations?user=aoud5NgAAAAJ&hl) and [Ge Wang](https://www.linkedin.com/in/ge-wang-axis/)
 -----
-This is a Pytorch implementation of the [paper](https://arxiv.org/pdf/2103.09382.pdf).
+This is a Pytorch implementation of the SPICE: Semantic Pseudo-labeling for Image Clustering [paper](https://arxiv.org/pdf/2103.09382.pdf).
 -----
 
 We tried to reproduce the results of the paper using this code in a first step, and run it using FashionIQ data to simulate our use case and example of fashion articles in a second step. We modified the source code accordingly to do so.
