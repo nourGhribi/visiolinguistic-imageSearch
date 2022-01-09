@@ -1,0 +1,9 @@
+nltk==3.5
+spacy==2.3.0
+einops
+tqdm
+pudb
+ipdb
+pillow
+h5py
+pandas

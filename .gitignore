@@ -1,5 +1,16 @@
+# Ignore Data Directories
+DCNET/dataset
+DCNET/logdir
+
+# Ignore experiment results images
+DCNET/experiments/*.png
+DCNET/experiments/*.jpg
+
+# Ignore environments
+DCNET/*env*
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
+DCNET/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -76,6 +87,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+DCNET/.ipynb_checkpoints
+DCNET/experiments/.ipynb_checkpoints
+
+KeywordsExtraction/.ipynb_checkpoints/
 
 # IPython
 profile_default/
@@ -109,6 +124,22 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+DCNET/.env
+DCNET/.venv
+DCNET/env/
+DCNET/venv/
+DCNET/ENV/
+DCNET/env.bak/
+DCNET/venv.bak/
+
+SPICE/.env
+SPICE/.venv
+SPICE/env/
+SPICE/venv/
+SPICE/ENV/
+SPICE/env.bak/
+SPICE/venv.bak/
 
 # Spyder project settings
 .spyderproject
