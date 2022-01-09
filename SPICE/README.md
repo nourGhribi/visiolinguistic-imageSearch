@@ -37,7 +37,7 @@ cd SPICE
 ```
 
 ## Data
-Prepare datasets of interest as described in [dataset.md](./dataset.md). The FashionIQ dataset is described thouroughly in the Interactive Image Retrieval module [here](../DCNET/README.md### Datasets)
+Prepare datasets of interest as described in [dataset.md](./dataset.md). The FashionIQ dataset is described thouroughly in the Interactive Image Retrieval module [here](../DCNET/README.md)(###Datasets)
 
 ## Training
 Read the [training tutorial](./train.md) for details.
