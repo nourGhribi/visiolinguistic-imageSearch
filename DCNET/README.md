@@ -1,7 +1,7 @@
 # Interactive Image Retrieval: Dual Composition Network (DCNet)
 
 This directory hosts the code of the paper Dual Compositional Learning in Interactive Image Retrieval.
-In addition, the experiments directory holds all the experiments done base on this solution.
+In addition, the experiments directory holds all the experiments done based on this solution.
 
 - [Jongseok Kim](https://ozmig77.github.io/), [Youngjae Yu](https://yj-yu.github.io/home), Hoeseong Kim and [Gunhee Kim](http://vision.snu.ac.kr/gunhee/).
 Dual Compositional Learning in Interactive Image Retrieval. In *AAAI*, 2021.
