@@ -22,6 +22,9 @@ The overall layout of dataset folder ```./datasets``` is as
         └── tiny_imagenet_val_lmdb_meta_info.pkl
         
 These datasets can be downloaded as follows.
+
+- [FashionIQ](https://github.com/hongwang600/fashion-iq-metadata)
+
 - [STL10](https://cs.stanford.edu/~acoates/stl10/)
 ```shell script
 wget http://ai.stanford.edu/~acoates/stl10/stl10_binary.tar.gz
