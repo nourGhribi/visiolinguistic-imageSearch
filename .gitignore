@@ -9,6 +9,29 @@ DCNET/experiments/*.jpg
 # Ignore environments
 DCNET/*env*
 
+# SPICE gitignore
+SPICE/figures/.ipynb_checkpoints/
+SPICE/results/stl10/eval/.ipynb_checkpoints/
+SPICE/.ipynb_checkpoints/
+SPICE/configs/fashionIQ/__pycache__/
+SPICE/configs/stl10/__pycache__/
+SPICE/configs/imagenet10/__pycache__/
+SPICE/moco/__pycache__/
+SPICE/spice/model/heads/__pycache__/
+SPICE/spice/model/feature_modules/__pycache__/
+SPICE/spice/model/__pycache__/
+SPICE/spice/config/__pycache__/
+SPICE/spice/__pycache__/
+SPICE/spice/data/__pycache__/
+SPICE/spice/utils/__pycache__/
+SPICE/fixmatch/models/__pycache__/
+SPICE/fixmatch/models/nets/__pycache__/
+SPICE/fixmatch/__pycache__/
+SPICE/fixmatch/datasets/__pycache__/
+SPICE/fixmatch/datasets/augmentation/__pycache__/
+SPICE/tools/.ipynb_checkpoints/
+
+
 # Byte-compiled / optimized / DLL files
 DCNET/__pycache__/
 *.py[cod]
