@@ -25,7 +25,7 @@ for cat in categories.keys():
     for type in data_types:
         print("data_type",type)
         print(f"Reading file split.{cat}.{type}.json")
-        file = read_json(Path(f"split.{cat}.{type}.json"))
+        file = read_json(Path(f"datasets/fashionIQ/image_splits/split.{cat}.{type}.json"))
         print("class:",categories[cat])
         data = [{"image_id": im_id, "class":categories[cat]} for im_id in file]
         if type == "test":
@@ -33,6 +33,6 @@ for cat in categories.keys():
         else:
             train_data += data
 
-write_json(train_data, Path("split_train.json"))
+write_json(train_data, Path("datasets/fashionIQ/split_train.json"))
 
-write_json(test_data, Path("split_test.json"))
+write_json(test_data, Path("datasets/fashionIQ/split_test.json"))

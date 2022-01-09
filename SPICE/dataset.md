@@ -2,7 +2,10 @@
 
 The overall layout of dataset folder ```./datasets``` is as
 
-    ├── datasets   
+    ├── datasets
+        ├── fashionIQ
+            ├──images
+            ├──image_splits
         ├── cifar10                   
         ├── cifar100                    
         ├── imagenet10_lmdb
