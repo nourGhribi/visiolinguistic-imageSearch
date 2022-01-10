@@ -2,7 +2,7 @@
 This repository is for the implementation of the project "Tell Me, Which One is The Most Visually Appealing Image?" during the semester project of Fall 2021 with the Image and Visual Representation Lab at EPFL. 
 
 ----
-The idea for this project is to lerevage the capabilities of Interactive Image Retrieval o retreave the most suitable and visually appealing image.
+The idea for this project is to lerevage the capabilities of Interactive Image Retrieval to retrieve the most suitable and visually appealing image.
 Three modules are used for this goal:
 
 - Interactive Image Retrieval: [DCNet](https://github.com/nourGhribi/visiolinguistic-imageSearch/tree/main/DCNET)
