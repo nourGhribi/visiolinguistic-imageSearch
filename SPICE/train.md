@@ -2,7 +2,7 @@
 
 A step-by-step training tutorial for STL10 datast is as follows.
 
-`**Note:** For the fashionIQ datataset coresponding config files for training are in ./configs/fashionIQ`
+**Note:** For the fashionIQ datataset coresponding config files for training are in ./configs/fashionIQ`
 
 ##### 1. Pretrain representation learning model, i.e., MoCo, assuming 4 GPUs available.
 ```shell script
